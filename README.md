@@ -25,11 +25,11 @@ I prioritize hands-on implementation and build end-to-end systems — from model
 |---|---|
 |   ML & Deep Learning | PyTorch · CNNs · RNN/LSTM · Transformers (attention, positional encoding, encoder/decoder) · Text generation · Sampling (Greedy, Top-K, Top-P) |
 |   LLM & RAG Systems | SFT · LoRA/QLoRA · DPO · RLHF (concepts) · RAG pipelines · FAISS · Hybrid search (BM25 + dense) · Re-ranking · Hallucination mitigation · BERTScore |
-|   Big Data | Apache Spark · Spark MLlib · Distributed ML pipelines |
+|   Big Data | Apache Spark · Spark MLlib · Distributed ML pipelines · RocksDB |
 |   Deployment | FastAPI · REST APIs · Model serving · Docker |
 |   Packaging | PyInstaller · Inno Setup (Windows installers) |
 |   Data Science | EDA · Feature engineering · Statistical modeling · Hypothesis testing · Preprocessing · RMSE/F1/CV |
-|   Languages & Tools | Python · SQL · Java · C++ · Git · Hugging Face · HTML · CSS |
+|   Languages & Tools | Python · SQL · Java · C++ · Git · Hugging Face · HTML · CSS · Tableau · Power BI |
 
 
 ## 🧰Career Focus
