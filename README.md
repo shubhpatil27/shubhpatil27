@@ -29,7 +29,7 @@ I prioritize hands-on implementation and build end-to-end systems — from model
 |   Deployment | FastAPI · REST APIs · Model serving · Docker |
 |   Packaging | PyInstaller · Inno Setup (Windows installers) |
 |   Data Science | EDA · Feature engineering · Statistical modeling · Hypothesis testing · Preprocessing · RMSE/F1/CV |
-|   Languages & Tools | Python · SQL · Java · C++ · Git · Hugging Face · HTML · CSS · Tableau · Power BI |
+|   Languages & Tools | Python · SQL · Java · C++ · Git · Hugging Face · HTML · CSS · Tableau · Power BI · Zapier |
 
 
 ## 🧰Career Focus
